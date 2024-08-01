@@ -1,4 +1,7 @@
-# Shojo Catalogue
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<!-- # Shojo Catalogue -->
+<h1>Shojo Catalogue</h1>
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
 <a href="#home" class="w3-button v3=bar-item">Home</a>
