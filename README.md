@@ -7,7 +7,7 @@
 <!-- Navigation -->
 <div class="topnav" id= "myTopnav">
    <a class="active" href="README.md">Home</a>
-  <a class="active" href="shojo-looks.html">Shojo Looks</a>
+  <a class="active" href="shojo-looks.md">Shojo Looks</a>
   <i class="fa fa=bars"></i>
   </a>
 </div>
