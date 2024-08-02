@@ -8,14 +8,22 @@
  <!--  <img class="mySlides" src="kk-nanami-1.jpeg" style= "width:100%"> 
    ![kk-nanami-1](https://github.com/user-attachments/assets/ec80e761-bfd5-4043-a9f8-038345dee06d) -->
 <body>
- <div class="carousel">
+ <div class="carousel"> <!-- start -->
   <div class="carousel_inner">
    <div class="carousel_item carousel_item__active">
      <img src="image/kk_nanami.md" alt="nanami" class="carousel_img">
        <div class="carousel_caption">
         <h1 class="carousel_title">Nanami</h1>
          <p class="carousel_description">wow</p>
-     </div>
+      </div>
+    </div> <!-- end of img 1 -->
+
+  </div> <!-- end -->
+  
+ <div class="carousel_indicator">
+   <button class="carousel_dot carousel_dot__active"></button>
+   <button class="carousel_dot"></button>
+ </div>
  
       
   
