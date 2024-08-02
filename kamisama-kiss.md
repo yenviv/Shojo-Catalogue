@@ -11,7 +11,7 @@
  <div class="carousel">
   <div class="carousel_inner">
    <div class="carousel_item carousel_item__active">
-     <img src=" blank " alt="" class="carousel_img">
+     <img src="image/kk_nanami.md" alt="nanami" class="carousel_img">
        <div class="carousel_caption">
         <h1 class="carousel_title">Nanami</h1>
          <p class="carousel_description">wow</p>
