@@ -2,7 +2,21 @@
 <html lang="en">
 
 <head>
-<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scal=1">
+    <style>
+     div.scroll-container {
+       background-color: #333;
+       overflow: auto;
+       white-space: nowrap;
+       padding: 10px;
+      }
+     div.scroll-container img {
+       padding: 10px;
+      }
+    </style>
+     
+
+ 
 <h1>Kamisama Kiss</h1>
 </head>
 <!-- Slide Show -->
