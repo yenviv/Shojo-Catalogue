@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scal=1">
+<meta name="viewport" 
+    content="width=device-width, initial-scale=1">
     <style>
      div.scroll-container {
        background-color: #333;
@@ -14,20 +15,19 @@
        padding: 10px;
       }
     </style>
-     
-
  
-<h1>Kamisama Kiss</h1>
 </head>
 <!-- Slide Show -->
 
  <!--  <img class="mySlides" src="kk-nanami-1.jpeg" style= "width:100%"> 
    ![kk-nanami-1](https://github.com/user-attachments/assets/ec80e761-bfd5-4043-a9f8-038345dee06d) -->
 <body>
+ <h1>Kamisama Kiss</h1>
+    
 <div class="scroll-container">
-  <img src="https://i.pinimg.com/564x/9c/c8/a4/9cc8a4209e9afac6713d56b506ca8515.jpg"   alt="Nanami yellow shirt">
-  <img src="https://i.pinimg.com/564x/1f/fe/86/1ffe8691dc644a320f69cbacad06396a.jpg" alt="Nanami white apron dress">
-  <img src="https://i.pinimg.com/564x/35/e4/89/35e4894b80541e19ccc0c1437a98f56e.jpg" alt="Nanami red plaid skirt">
+  <img src="https://i.pinimg.com/564x/9c/c8/a4/9cc8a4209e9afac6713d56b506ca8515.jpg"   alt="Nanami yellow shirt" width="600" height="400">
+  <img src="https://i.pinimg.com/564x/1f/fe/86/1ffe8691dc644a320f69cbacad06396a.jpg" alt="Nanami white apron dress"width="600" height="400">
+  <img src="https://i.pinimg.com/564x/35/e4/89/35e4894b80541e19ccc0c1437a98f56e.jpg" alt="Nanami red plaid skirt"width="600" height="400">
 </div>
      
 
